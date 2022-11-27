@@ -16,7 +16,7 @@
     background: transparent;
 }
 .portfolio_item-image {
-    border-radius: 2rem;
+    border-radius: 1rem;
     overflow: hidden;
 }
 .portfolio_item h3 {
